@@ -19,7 +19,8 @@ import { AdminMenuComponent } from './componentes/admin/admin-menu/admin-menu.co
     ColaComponent,
     ColaClienteComponent,
     PanelAdministradorComponent,
-    AdminMenuComponent
+    AdminMenuComponent,
+    ClienteComponent
   ],
   imports: [
     BrowserModule,
